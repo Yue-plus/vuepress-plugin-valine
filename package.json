@@ -1,0 +1,13 @@
+{
+  "name": "vuepress-plugin-valine",
+  "version": "0.0.0",
+  "keywords": [
+    "vuepress-plugin",
+    "valine",
+    "comment"
+  ],
+  "main": "lib/index.ts",
+  "repository": "git@github.com:Yue-plus/vuepress-plugin-valine.git",
+  "author": "Yue-plus <Yue_plus@foxmail.com>",
+  "license": "MIT"
+}
